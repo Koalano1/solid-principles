@@ -1,4 +1,5 @@
 S.O.L.I.D Java 
+
 Single responsibility principle - A class should have only one reason to change.
 
 Open/Closed principle - Software entities should be open for extension, but closed for modification.
